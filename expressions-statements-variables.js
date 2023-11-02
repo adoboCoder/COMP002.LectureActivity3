@@ -28,6 +28,6 @@ console.log(myVariable * 5);
 console.log("variables are case-sensitive");
 let myvariable = 100; // this is permitted since myVariable is NOT the same as myvariable
 
-const pi = 3.14;
-console.log(pi);
+const pi = 3.14; // declaring a constant variable pi and assigning 3.14 to it
+console.log(pi); // output the value of the constant variable pi
 // pi = 2; // you cannot change the value of a const variable after assignment
